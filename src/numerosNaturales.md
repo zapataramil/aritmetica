@@ -15,7 +15,7 @@ Existen distintos sistemas de Numeracion (cada uno con sus simbolos y reglas)
 Simbolos basicos: (0 1 2 3 4 5 6 7 8 9)
 Reglas: Cifra a la izquierda de otra tiene un orden superior
 
-###Sistema de Numeracion romano:
+### Sistema de Numeracion romano:
 
 Simbolos basicos: (I V X L C D M)
 Reglas:  
