@@ -10,7 +10,7 @@ Entonces nace la numeración: Reglas de un convenio
 
 Existen distintos sistemas de Numeracion (cada uno con sus simbolos y reglas)
 
-###Sistema de Numeracion decimal:
+### Sistema de Numeracion decimal:
 
 Simbolos basicos: (0 1 2 3 4 5 6 7 8 9)
 Reglas: Cifra a la izquierda de otra tiene un orden superior
@@ -20,13 +20,13 @@ Reglas: Cifra a la izquierda de otra tiene un orden superior
 Simbolos basicos: (I V X L C D M)
 Reglas:  
 
-###Sistema de numeración binario:
+### Sistema de numeración binario:
 
 Simbolos basicos: (0 1)
 Reglas:
 
 
-##Numeros Naturales Concretos
+## Numeros Naturales Concretos
 
 Definicion de especies, unidad simbolica, coeficiente
 Desarrollo de la idea que dentro de cada especie existe una unidad basica y sus multiplos
